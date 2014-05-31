@@ -42,4 +42,5 @@ pseudo code
         copy B[i..p-1] to A[k..p+q-1]
 
 
-
+# Video resources
+[XOAX.net](http://xoax.net/comp_sci/crs/algorithms/index.php)
